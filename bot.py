@@ -21,7 +21,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = (
         f"*{name.upper()}, JOIN UP QUICK!* 🏪🥇\n\n"
         "🔥 *FORWARD THIS MSG TO 15+ CONTACTS & GROUPS — SUPPORT MEANS A LOT!* 👏\n\n"
-        "💎 *PM @Mon3yMoTime FOR FREE LIST – DON’T SLEEP ON IT!* 💼📹"
+        "💎 *PM @Mon3yMoTime FOR FREE FULLZ – DON’T SLEEP ON IT!* 💼📹"
     )
 
     keyboard = [
