@@ -10,8 +10,8 @@ if not BOT_TOKEN:
 
 # --- LINKS ---
 ADMIN_LINK = "https://t.me/Mon3yMoTime"
-CHANNEL_LINK = "https://t.me/+gwpx1n_VBZJmNzC0"
-GROUP_LINK = "https://t.me/+jcVnkwMDVk"
+CHANNEL_LINK = "https://t.me/+gwpx1n_VBZJmNzc0"
+GROUP_LINK = "https://t.me/+CjcVnktCaC8wMDVk"
 
 # --- /start command ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
